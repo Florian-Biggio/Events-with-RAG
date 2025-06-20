@@ -1,0 +1,9 @@
+{
+    "cutoffDate": "2024-06-20T00:00:00",
+    "required_columns": [
+        "title_fr",
+        "description_fr",
+        "timings"
+    ],
+    "row_count": 6918
+}

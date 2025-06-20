@@ -1,3 +1,10 @@
+#project specific .gitignore file
+secrets.json
+faiss_index*
+final_faiss_index*
+model*
+.~lock.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
