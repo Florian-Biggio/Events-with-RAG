@@ -1,0 +1,14 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "cutoff_date": "2024-11-06T00:00:00",
+  "region": "Nouvelle-Aquitaine",
+  "document_count": 10095,
+  "max_documents_requested": 20000,
+  "creation_date": "2025-11-06T05:19:54.300152",
+  "embedding_fields": [
+    "titre",
+    "description",
+    "adresse",
+    "dates_affichage"
+  ]
+}

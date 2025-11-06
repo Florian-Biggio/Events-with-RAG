@@ -1,9 +1,11 @@
 #project specific .gitignore file
 secrets.json
 faiss_index*
-final_faiss_index*
+faiss*
+#final_faiss_index*
 model*
 .~lock.*
+archives
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -179,3 +181,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+!faiss_vectorizer.py
